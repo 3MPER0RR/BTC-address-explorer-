@@ -1,12 +1,14 @@
 # BTC-adress-explorer
 
-## Features
+## Requirements
+- Python 3.10+ -- python3.11
+
+- OS linux
+
+- ## Features
 - Address summary
 - Transaction history
 - UTXO view
-
-## Requirements
-- Python 3.10+
 
 ## Run
 ```bash
